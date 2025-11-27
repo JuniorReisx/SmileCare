@@ -5,8 +5,6 @@
 A modern, responsive, and user-friendly website for a fictional dental clinic.
 Built with **HTML**, **CSS**, and **JavaScript**, this project showcases a clean interface, animated sections, and intuitive navigation for booking dental appointments.
 
-🌐 **Live Website:**
-👉 [https://juniorreisx.github.io/ClinicaDentista/#home](https://juniorreisx.github.io/ClinicaDentista/#home)
 
 ---
 
